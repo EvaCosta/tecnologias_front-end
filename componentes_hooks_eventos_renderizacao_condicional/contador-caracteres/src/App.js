@@ -16,6 +16,7 @@ function ContadorCaracteres() {
   );
 }
 
+
 function App() {
   return (
     <div className="App">
